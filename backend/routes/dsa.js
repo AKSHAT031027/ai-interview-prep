@@ -1,4 +1,4 @@
- const express = require('express');
+const express = require('express');
 const DsaProblem = require('../models/DsaProblem');
 const Progress = require('../models/Progress');
 const authMiddleware = require('../middleware/authMiddleware');
